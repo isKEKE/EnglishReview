@@ -1,26 +1,38 @@
-## 单词复习
+## 单词复习My
+
+#### Group 1
 
 ```sample
-field:				字段
-allows:				允许
-purpose:			目的
-deploy:				部署
-utility:			实用的程序
-through: 			经过
-activties:			活动
-provides:			提供
-schema:				架构
-matches:			匹配的
-specified:			指定的
-specification:		个数
-based:				基于
-mapping:			映射的
-tolerance:			容差
-collated:			整理
-multiple:			多个的
-per:				每
-summary:			摘要
-duplicates:			重复的
+field:				字段			[fiːld] 
+allows:				允许			[əˈlaʊz] 
+purpose:			目的			[ˈpɜːrpəs] 
+deploy:				部署			[dɪˈplɔɪ] 
+utility:			实用程序	   [juːˈtɪləti] 
+through: 			经过			[θruː]
+activities:			活动			[ækˈtɪvətiz]
+provides:			提供			[prəˈvaɪdz]
+schema:				架构			[ˈskiːmə]
+matches:			匹配		    [ˈmætʃɪz]
+```
+
+#### Group 2
+
+```
+specified:			指定的			[ˈspesɪfaɪd]
+specification:		规格			 [ˌspesɪfɪˈkeɪʃn]
+based:				基于			 [beɪst]
+mapping:			映射 			 [ˈmæpɪŋ]
+tolerance:			容差			 [ˈtɑːlərəns]
+collated:			整理			 [kəˈleɪtɪd] 
+multiple:			多个的			[ˈmʌltəpəl]
+per:				每			  [pər]
+summary:			摘要			 [ˈsʌməri]
+duplicates:			重复项			[ˈduːplɪkeɪts]
+```
+
+#### Other
+
+```
 alias:				别名
 secret password:	密码
 available:			可用的
