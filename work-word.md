@@ -26,33 +26,43 @@ tolerance:			容差			 		[ˈtɑːlərəns]
 collated:			整理			 		[kəˈleɪtɪd] 
 multiple:			多个的					[ˈmʌltəpəl]
 per:				每			  		[pər]
-summary:			摘要			 		[ˈsʌməri]
+summary:			摘要;摘要			 		[ˈsʌməri]
 duplicates:			重复项					[ˈduːplɪkeɪts]
+```
+
+#### Group 3
+
+```
+alias:				别名		[ˈeɪliəs] 
+secret password:	密码		[ˈsiːkrət] 
+available:			可用的		[əˈveɪləbl]
+localized:			本地化		[ˈlokəˌlaɪzd]
+follow:				遵循		[ˈfɑːloʊ] 
+retrieve:			恢复		[rɪˈtriːv]
+credentials:		证书		 [krəˈdenʃlz]
+mention:			提及		[ˈmenʃnd] 
+refer:				参考		[rɪˈfɜːr] 
+attached:			附属的		[əˈtætʃt]
+```
+
+#### Group 4
+
+```
+one time:			一次性的
+required:			必须的		[rɪˈkwaɪərd]
+prerequisite:		先决条件	[priˈrɛkwɪzɪt]
+reach:				抵达		 [riːtʃ] 
+corresponding:		相应的		 [ˌkɔːrəˈspɑːndɪŋ] 
+instance:			实例		 [ˈɪnstəns] 
+dedicated:			专用的		[ˈdɛdɪˌketɪd]
+decide:				决定		 [dɪˈsaɪd]
+both:				两个都		 [boʊθ] 
+drive:				驱动
 ```
 
 #### Other
 
 ```
-alias:				别名
-secret password:	密码
-available:			可用的
-localized:			本地化
-follow:				遵循
-retrieve:			恢复
-credentials:		证书
-mentioned:			提及
-refer:				参考
-attached:			附属的
-one time:			一次性的
-required:			必须的
-prerequisite:		先决条件
-reach:				抵达
-corresponding:		相应的
-instance:			实例
-dedicated:			专用的
-decide:				决定
-both:				两个都
-drive:				驱动
 comparison:			比较
 component:			组件
 senses:				感知

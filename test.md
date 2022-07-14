@@ -216,3 +216,43 @@ What's she taking off?
 She's taking off her coat. 
 ```
 
+---
+
+```
+What are the cooks doing?
+They are cooking.
+
+ What are the children doing?
+ They are sleeping.
+ 
+ What are they doing?
+ They are shaving.
+ 
+ What are the girls doing?
+ They are crying.
+ 
+ What are the dogs doing?
+ They are eating.
+ 
+ What are the women doing?
+ They are typing letters. 
+ 
+ What are they doing?
+ They are doing theirhomework.
+ 
+ What are the women doing?
+ They are washing dishes.
+ 
+ What are the birds doing?
+ They are flying over the river.
+ 
+ What are they doing?
+ They are walking over the bridge.
+ 
+ What are the man and the woman doing?
+ They are waiting for a bus.
+ 
+ What are they doing?
+ They are jumping off the wall.
+```
+
