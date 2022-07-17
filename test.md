@@ -284,3 +284,37 @@ Where are they reading?
 They are reading in the living room.
 ```
 
+---
+
+```
+What are you going to do?
+I am going to shave.
+What are you doing now? 
+Now I am shaving.
+
+What are you going to do?
+I'am going to wait for a bus.
+What are you doing now?
+Now I am waiting for a bus.
+
+What are you going to do?
+We are going to do our homework.
+What are you doing now?
+We are doing our homework.
+
+What are you going to do?
+I'm going to paint this bookcase.
+What are you doing now?
+I'm painting this bookcase.
+
+What are you going to do?
+We are going to listen to the stereo.
+What are you doing now?
+Now we are listening to the stereo.
+
+What is she going to do?
+She is going to wash the dishes.
+What is she doing now?
+She is washing the dishes.
+```
+
