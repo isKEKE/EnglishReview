@@ -256,3 +256,31 @@ They are cooking.
  They are jumping off the wall.
 ```
 
+---
+
+```
+Where is the man going?
+He's going into the shop.
+
+Where is he sitting?
+He is sitting beside his mother.
+
+Where are they walking?
+They are walking across the street.
+
+Where is the man walking.
+He is walking between two policemen.
+
+Where is the girl sitting?
+She is sitting near the tree.
+
+Where is the aeroplane flying?
+The aeroplane's flying under the bridge.
+
+Where are they sitting?
+They are sitting on the grass.
+
+Where are they reading?
+They are reading in the living room.
+```
+
