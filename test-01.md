@@ -318,3 +318,37 @@ What is she doing now?
 She is washing the dishes.
 ```
 
+---
+
+```
+What are you going to do?
+I'm going to take off my shirt.
+I'm going to take if off.
+
+What are you going to do?
+I'm going to turn on the television.
+I'm going to turn it on.
+
+What are you going to do?
+I'm going to turn off the stereo.
+I'm going to turn it off.
+
+What are you going to do with that dressr?
+I'm going to give it to my daughter.
+
+Whar are you going to do with that vase?
+I'm going to take it to my grandmother.
+
+What are you going to do with that newspaper?
+I'm going to show it to my father.
+
+What are you going to do with those ice creams?
+I'm going to give them to the children.
+
+What are you going to do with this letter?
+I'm going to send it to my grandfather.
+
+What are you going to do with these books?
+I'm going to send them to my sister.
+```
+
