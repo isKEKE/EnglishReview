@@ -75,19 +75,24 @@ generation:			一代		 [ˌdʒenəˈreɪʃn]
 via:				通过		 [ˈviːə]
 ```
 
+#### Group 6
+
+```
+existing: 			现存的		[ɪɡˈzɪstɪŋ] 
+setup:				设置		 [ˈsɛˌtʌp] 
+compressed:			压缩的		[kəmˈprest
+temporarily:		暂时的		tɛmpəˌrɛrəlɪ]
+completed:			完成		 [kəmˈpliːtɪd] 
+placed:				放置		 [pleɪst]  
+earlier:			早些时候    [ˈɜrliər]
+poll:				轮询		  [poʊl
+performs:			执行		 [pərˈfɔːrmz]
+mismatching:		不匹配的	[ˌmɪsˈmætʃɪŋ]
+```
+
 #### Other
 
 ```
-existing: 			现存的
-setup:				设置
-compressed:			压缩的
-temporarily:		暂时的
-completed:			完成
-placed:				放置
-earlier:			早些时候
-poll:				轮询
-performas:			执行
-mismatching:		不匹配的
 threshold:			阙值；临界点
 fetch:				拿来；获得
 sample:				样本
