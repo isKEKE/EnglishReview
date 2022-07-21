@@ -49,3 +49,47 @@ Is there a bird on the tree?
 Yes, there's one on the tree.
 ```
 
+---
+
+```
+Is there any bread on the table?
+Yes, there is.
+
+Are there any hammers here?
+Yes, there are. There are some behind that box.
+
+Is there any milk here?
+Yes, there is. There's some in front of the door.
+
+Is there any soap here?
+Yes, there's three bars of soap on the cupboard.
+
+Are there any newspapers here?
+Yes, there're some newspapers behind that vase.
+
+Is there any water here?
+Yes, there's two glasses of the water on the table.
+
+Is there any tea here?
+Yes, there's two cups of the tea on the table.
+
+Are there any cups here?
+Yes, there're two cups in front of the kettle.
+
+Is there any chocolate behind that book?
+Yes, there is.
+There's two bars of chocolate behind that book.
+
+Are there any teapots in the cupborad?
+Yes, there are.
+There are two teapots in the cupboard.
+
+Are there any cars in front of that building?
+Yes, there are. 
+There are two cars in front of that building.
+
+Is there any coffee on the table?
+Yes there is.
+There's two bars of coffee on the table.
+```
+
