@@ -93,3 +93,43 @@ Yes there is.
 There's two bars of coffee on the table.
 ```
 
+---
+
+```
+Can you put your coat on?
+No, I can't
+
+Can you put your hat on?
+Yes, I can.
+
+Can you see a bird?
+No, I can't
+
+Can you see that aeroplane?
+Yes, I cathat
+
+Can he paint this bookcase and this room?
+No, he can't paint this room, but he can paint this bookcase.
+
+Can he lift that chair and this table?
+He can't lift this tabel, but he can lift that chair.
+
+Can you read that magazine?
+No, I can't. 
+What can you do?
+I can read this book.
+
+Can you jump off that wall?
+No, I can't.
+What can you do?
+I can jump off this box.
+
+Can she make biscuits?
+No, she can't.
+What can she do?
+She can make cakes.
+
+Can she put the vase on the shelf?
+No, she can't. She can put it on the table.
+```
+
