@@ -52,6 +52,7 @@ Yes, there's one on the tree.
 ---
 
 ```
+# 43
 Is there any bread on the table?
 Yes, there is.
 
@@ -96,6 +97,7 @@ There's two bars of coffee on the table.
 ---
 
 ```
+# 45
 Can you put your coat on?
 No, I can't
 
@@ -131,5 +133,57 @@ She can make cakes.
 
 Can she put the vase on the shelf?
 No, she can't. She can put it on the table.
+```
+
+---
+
+```
+# 47
+Do you like eggs?
+Yes, I do.
+Do you want any eggs?
+No, I don't.
+
+Do you like butter?
+Yes, I do.
+Do you want any butter?
+No, I don't.
+
+Do you like honey or banana?
+I like pure honey, but I don't like banana.
+
+Do you like honey or bananas ?
+No, I don't like honey, but I like bananas.
+
+
+Do you want any jam or an orange??
+I want some jam, but I don't want an orange.
+
+Do you want any jam or an orange?
+I want an orange, but i don't want any jam.
+
+Do you like ice creams?
+Yes, I do.
+I like ice creams, but I don't want one.
+
+Do you like whiskey?
+Yes, I do.
+I like whiskey, but I don't want any.
+
+Do you like apples?
+Yes, I do.
+I like apples, but I don't want one.
+
+Do you like wine?
+Yes, I do.
+I like wine, but I don't want any.
+
+Do you like biscuits?
+Yes, I do.
+I like biscuits, but I don't want one.
+
+Do you like beer?
+Yes, I do.
+I like beer, but I don't want any.
 ```
 
