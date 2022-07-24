@@ -187,3 +187,56 @@ Yes, I do.
 I like beer, but I don't want any.
 ```
 
+---
+
+```
+49
+Does Penny like tomatoes?
+Yes, she does.
+She likes tomatoes, but she doesn't want any.
+
+Do you like potatoes?
+Yes, I do.
+I like potatoes, but I don't want any.
+
+Does Sam like cabbages?
+Yes, he does.
+He likes cabbages, but he doesn't want any.
+
+Do you like lettuces?
+Yes, I do.
+I like lettuces, but I don't want any.
+
+Does Mrs. White like peas?
+Yes, she does.
+She likes peas, but she doesn't want any.
+
+Do you like beans?
+Yes, I do.
+I like beans, but I don't want any.
+
+Mr. Jones doesn't like orange, but I do.
+What does he like?
+He likes bananas.
+
+Mr. Jones likes bananas, but I don't.
+What do you like?
+I like oranges.
+
+Mrs. Bird doesn't like pears, but I do.
+What does she like?
+She likes apples.
+
+Mrs. Bird likes apples, but I don't
+What do you like?
+I like pears.
+
+Mr. George doesn't like peaches, but I do.
+What does he like?
+He likes grapes.
+
+Mr. George likes grapes, but I don't.
+What do you like?
+I like peaches.
+```
+
