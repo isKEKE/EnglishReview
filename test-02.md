@@ -240,3 +240,37 @@ What do you like?
 I like peaches.
 ```
 
+---
+
+```
+What nationality are you？
+I am American.
+Where do you come from?
+I come from the U.S.
+
+Where does he come from?
+He comes from Brazil.
+What nationality is he?
+He's Brazilien.
+
+Where does she come from?
+She comes from Holland.
+What nationality is she?
+She is Dutch.
+
+Where do you come from?
+We come from England.
+What nationality are you?
+We are English.
+
+Where do they come from?
+They come from France.
+What nationality are they?
+They are French.
+
+Where do I come from? 
+You come from Germany.
+What nationality am I?
+You are German.
+```
+
