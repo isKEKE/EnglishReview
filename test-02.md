@@ -243,6 +243,7 @@ I like peaches.
 ---
 
 ```
+# 51
 What nationality are you？
 I am American.
 Where do you come from?
@@ -272,5 +273,53 @@ Where do I come from?
 You come from Germany.
 What nationality am I?
 You are German.
+```
+
+---
+
+```
+# 53
+Where do you come from?
+Are you Australian?
+Yes, I'm Australian
+
+Where does he come from?
+Is he Austrian?
+Yes, He is Austrian.
+He come from Austria.
+
+Where does he come from?
+Is he Canadian?
+Yes, he is Canadian.
+He come from Canada.
+
+Were do you come from?
+Are you Chinese?
+Yes, we are Chinese.
+We come from China.
+
+You are Finnish.
+You come from Finland.
+
+She is Indian.
+She comes from India.
+
+You are Japanese.
+You come from Japan.
+
+I am Korean.
+I come from Korea.
+
+We are Nagerian.
+We come from Nageria.
+
+They are Polish.
+They come from Poland.
+
+She is Thai.
+She comes from Thailand.
+
+She's Turkish.
+She comes from Trukey.
 ```
 
