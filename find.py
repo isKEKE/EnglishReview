@@ -21,9 +21,9 @@ def ergodic_word() -> Generator:
 def find_word(keyword: str) -> None:
     '''find keyword'''
     for filepath, line in ergodic_word():
-        word = re.match("#### \d+\.\s+([A-z ]+)\n", line)
-        if word is not None and ((word := word.group(1)).lower() == keyword.lower()):
-            print(filepath, word)
+        words = re.match("#### (\d+)\.\s+([A-z ]+)\n", line)
+        if words is not None and ((word := words.group(2)).lower() == keyword.lower()):
+            print(filepath, words.group(1), word)
 
 
 if __name__ == "__main__":
