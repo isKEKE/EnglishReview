@@ -326,6 +326,7 @@ She comes from Trukey.
 ---
 
 ```
+# 55
 What does she do in the mornign?
 She always makes the bed in the morning,
 
@@ -360,6 +361,7 @@ He often reads his newspaper in the evening.
 ---
 
 ```
+# 57 
 What's the time?
 It's one o'clock.
 
@@ -398,5 +400,58 @@ She's reading a book this evening.
 
 We usually watch television at night.
 But tonight, we are listening to the stereo.
+```
+
+---
+
+```
+# 59
+What's the time?
+It's two o'clock. 
+
+What's the time?
+It's six o'clock.
+
+What's the time?
+It's eight o'clock.
+
+What's the time?
+It's twelve o'clock.
+
+Do you have any cheese?
+No, I don't, but I have some butter.
+
+Do you have any jam?
+I don't have any jam, but I have some honey.
+
+Do you and Stella have any bread?
+We don't have any bread, but we have some biscuits.
+
+Do you and  Sam have any potatoes?
+We don't have any potatoes, but we have some peas.
+
+Do Helen and Tim have any tomatoes?
+They don't have any tomatoes, but they have some beans.
+
+Do Steven and his sister have any cabbages?
+They don't have any cabbages, but they have some lettuces.
+
+Do you have any eggs?
+I don't have any eggs, but I have some peaches.
+
+Do you and your friends have any bananas?
+We don't have any bananas, but we have some grapes.
+
+Do Mary and Tom have any steak?
+They don't have any steak, but they have some mince.
+
+Do you have any chicken?
+I don't have any chicken, but I have some beer.
+
+Do you and Jack have any whisky?
+We don't have any whisky, but we have some wine.
+
+Do Penny and Dan have any tobacco?
+They don't have any tobacco, but they have some soap.
 ```
 
