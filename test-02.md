@@ -323,3 +323,80 @@ She's Turkish.
 She comes from Trukey.
 ```
 
+---
+
+```
+What does she do in the mornign?
+She always makes the bed in the morning,
+
+What daes he do in the morning?
+He always shaves in the morning,
+
+What do they do in the evening?
+Sometimes they listen to the radio in the evening.
+
+When does he clean the backboard?
+He always cleans the backboard every day.
+
+When do they go to bed?
+They always go to bed early at night,
+
+When does she wash the dished?
+She usually washed the dished every day.
+
+What does the cat do every day?
+It usually drinks some milk every day.
+
+What do they do in the evening?
+Sometimes they watch television.
+
+What does she do at noon?
+She always eats her lunch at noon.
+
+What does he do in the evening?
+He often reads his newspaper in the evening.
+```
+
+---
+
+```
+What's the time?
+It's one o'clock.
+
+What's the time?
+It's three o'clock.
+
+What's the time?
+It's seven o'clock.
+
+What's the time?
+It's eleven o'clock.
+
+When does he usually shave every day?
+He usually shaves at seven o'clock.
+
+When is he shaving today?
+He's shaving at eight o'clock.
+
+What does she usually do in the morning?
+She usually drinks tea in the morning.
+
+What is she doing this morning?
+She's drinking coffee this morning.
+
+What do they usually do in the afternoon?
+They usually play in the garden in the afternoon.
+
+What are they doing this afternoon.
+They are swimming in the river this afternoon.
+
+What does she usually do in the evening?
+She usually cooks a meal in the evening.
+
+What is she doing this evening?
+She's reading a book this evening.
+
+We usually watch television at night.
+But tonight, we are listening to the stereo.
+```
+
