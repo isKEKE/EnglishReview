@@ -108,3 +108,66 @@ He's enjoying himself.
  She's enjoying herself.
 ```
 
+---
+
+```
+# 67
+What's the time?
+It's five past one.
+
+What's the time?
+It's twety-five past one.
+
+What's the time?
+It's five to two. 
+
+Where were you on Sunday, the frist of January?
+I was at church.
+
+Where was he on Monday, the second of February?
+He was at school.
+
+Where was she on Tuesday, the third of March?
+She was at the office.
+
+Where was Tom on Thursday, the fifth of May?
+He was at the hairdresser's.
+
+When was Penny at the baker's?
+She was there on Friday, June 6th.
+
+When were they at the dairy?
+They were there on Saturday, July 7th.
+
+Where was Mrs Williams on Monday, September 9th?
+She was at the grocer's.
+```
+
+---
+
+```
+When were you at the stationer's?
+We were there on Monday.
+
+When were they at the park?
+They were there on January the twety-first.
+
+When were you and Susan in Canada?
+We were there in September.
+
+When were Penny and Sam in Japan?
+They were there in 1994
+
+Where were you on Saturday?
+We were at the dairy.
+
+Where were they on May twety-fifth?
+They were at home.
+
+Where were you and Steven in November?
+We were in Denmark.
+
+Where were Jane and Ann in 1985?
+They were in India.
+```
+

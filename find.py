@@ -23,7 +23,22 @@ def find_word(keyword: str) -> None:
     for filepath, line in ergodic_word():
         words = re.match("#### (\d+)\.\s+([A-z ]+)\n", line)
         if words is not None and ((word := words.group(2)).lower() == keyword.lower()):
-            print(filepath, words.group(1), word)
+            index = words.group(1)
+            print("-"*50)
+            print(filepath, index, word)
+            print_chinese_content(filepath, index, word)
+            print("-"*50)
+
+
+def print_chinese_content(filepath: str, index: str, word: str) -> None:
+    with open(filepath, encoding="utf-8") as fp:
+        content = fp.read()
+    pattern = f'''#### {index}\.\s+{word}\s+-\s```(.*?)```'''
+    try:
+        done = re.findall(pattern, content, re.DOTALL)[0]
+        print(done.rstrip()[1:])
+    except IndexError:
+        ...
 
 
 if __name__ == "__main__":
