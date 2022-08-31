@@ -114,3 +114,103 @@ When did he greet her?
 He greeted her a minute ago.
 ```
 
+---
+
+```
+It's eight o'clock.
+When did you see him?
+Half an hour ago.
+I saw him at half past seven.
+
+It's Friday.
+When did she go to London.
+The day before yesterday.
+She go to London the day before yesterday.
+
+It's June.
+When did Mr.Jones buy that car?
+Last month.
+He bought it in May.
+
+It's 1988.
+When did you paint this room?
+Last Year.
+I painted this room in 1987.
+
+It's the fifth of Januray.
+When did she meet him?
+Two months ago,
+She met him on November 5th.
+
+It's quarter past eleven.
+When did you arrive?
+Half an hour ago.
+I arrived at a quarter to twelve.
+
+It's Sunday.
+When did he lose his pen?
+Yesterday.
+He lost it on Saturday.
+
+It's March.
+When did you call the docker?
+The month before last.
+I called the docker in Januray.
+
+It's 1988.
+When did they buy this house?
+The year bebore last.
+They bought it in 1986.
+
+It's the first of Auguest.
+When did you speak to him?
+A month ago.
+I spoke to him on the first of July.
+```
+
+---
+
+```
+# 79 I must go to the
+We have some choees.
+We;ve got some choees.
+
+He doesn't have any biscuits.
+He hasn't got any biscuits.
+
+Have you got any eggs?
+I need a lof of eggs.
+I haven't got many.  
+I must go to the grocer's to get some eggs.
+
+Has he got any jam?
+He needs a lot of jam.
+He hasn't got much jam.
+He must go to the grocer's to get some jam.
+
+Have we got any oranges?
+We need a lof of oranges.
+We haven't got many oranges.
+We must go to the greengrocer's to get some oranges.
+
+Has she got any beef?
+She needs a lof of beef.
+She hasn't got much beef.
+She must go to the butcher's to get some beef.
+
+Have you got any glue?
+I need a lot of glue.
+I haven't got much glue.
+I must go to the newsagent's to get some glue.
+
+Has she got any cakes?
+She needs a lot of cakes.
+She hasn't got many.
+She must go to the baker's to get some cakes.
+
+Have they got any medicine?
+They need a lot of medicine.
+They haven't got much medicine.
+They must go to the chemist's to get some medicine.
+```
+
