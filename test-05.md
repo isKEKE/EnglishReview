@@ -111,3 +111,43 @@ I've already done it.
 I did it this afternoon.	 
 ```
 
+---
+
+```
+# 87
+Have you met Mrs.Jones yet?
+Yes, I have
+What did you meet her?
+I met her two weeks ago.
+
+Has the boss left yet?
+Yes, he has.
+When  did he leave?
+He left 10 minutes ago.
+
+Have you had breakfast yet?
+Yes, we have.
+When did you have it?
+We had it at half past seven.
+
+Has she found her pen yet?
+Yes, she has.
+When did she find it?
+She found it an hour  ago.
+
+Has he got a television yet?
+Yes, she has.
+When did he get it?
+He got it a month ago.
+
+Have you sent the letter yet?
+Yes, I have.
+When did you send it?
+I sent it the day before yesterday.
+
+Has she swept the floor yet?
+Yes, she has.
+When did she sweep it?
+She swept it yesterday afternoon.
+```
+
