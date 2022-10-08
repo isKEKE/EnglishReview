@@ -151,3 +151,43 @@ When did she sweep it?
 She swept it yesterday afternoon.
 ```
 
+---
+
+```
+# 89 Have you ... yet?
+Have you read this book yet?
+Yes, I have.
+When di you read it?
+I read it last year.
+
+Have you did your homework yet ?
+Yes, I have
+When did you do it?
+I did it half an hour ago.
+
+Has she spoke to him yet?
+Yes, She has.
+When did she speak to him?
+She spoke to him yesterday.
+
+Did you swim across the river last week?
+Yes, I swam across the river last week.
+What about Ron and Betty?
+They haven't swum across the river yet.
+
+Did you go to London yesterday？
+Yes, I went to Logon yesterday.
+What about your mother?
+She hasn't gone to London yet.
+
+Did you see that film last week?
+Yes, I saw that film last week.
+What about teh children?
+They haven't seen that film yet.
+
+Did you take your medicine this morning?
+Yes, I took my medicine this morning.
+What about Penny?
+She hasn't taken her medicine yet.
+```
+
